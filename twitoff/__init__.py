@@ -1,6 +1,3 @@
-
-
-
 from twitoff.app import create_app
 
 
